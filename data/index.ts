@@ -75,7 +75,7 @@ export const projects = [
     des: "Explore the wonders of nature with this captivating camping experience. Immerse yourself in the beauty of the outdoors and enjoy an unforgettable adventure under the stars, all through a website crafted with Next.js and Tailwind CSS.",
     img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg"],
-    link: "/travelapp-bms.netlify.app/",
+    link: "https://travelapp-bms.netlify.app/",
   },
   {
     id: 2,
@@ -91,7 +91,8 @@ export const projects = [
     des: "Indulge in the flavors of our pizza, crafted with passion and fresh ingredients. Dive into an appetizing experience with a website built using HTML, CSS, and JavaScript as we continue to perfect every slice for your delight.",
     img: "/p2-s.svg",
     iconLists: ["/html-5.svg",  "/css-3.svg"],
-    link: "/pizzeriacac.netlify.app",
+    link:"https://pizzeriacac.netlify.app/",
+    
   },
 ];
 
