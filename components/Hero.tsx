@@ -47,11 +47,7 @@ const Hero = () => {
             Dynamic Web Magic with Next.js
           </p>
 
-          {/**
-           *  Link: https://ui.aceternity.com/components/text-generate-effect
-           *
-           *  change md:text-6xl, add more responsive code
-           */}
+          
           <TextGenerateEffect
             words="Transforming Concepts into Seamless User Experiences"
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
