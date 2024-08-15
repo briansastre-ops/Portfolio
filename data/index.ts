@@ -90,7 +90,7 @@ export const projects = [
     title: "Food Page - Pagina Final CAC",
     des: "Indulge in the flavors of our pizza, crafted with passion and fresh ingredients. Dive into an appetizing experience with a website built using HTML, CSS, and JavaScript as we continue to perfect every slice for your delight.",
     img: "/p2-s.svg",
-    iconLists: ["/html-5.svg", "/javaScript.svg", "/css-3.svg"],
+    iconLists: ["/html-5.svg", "/javascript-2", "/css-3.svg"],
     link: "/pizzeriacac.netlify.app",
   },
 ];
