@@ -79,7 +79,7 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Horizon - Banking App",
+    title: "Obsidian Finace - Banking App",
     img: "/p3-3.svg",
     des: "Discover the benefits of our full-stack banking platform, designed to streamline your financial journey. Immerse yourself in an efficient and secure banking experience built with cutting-edge technologies like Next.js, Tailwind CSS, Appwrite, and more, as we continue to enhance our services for you",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
