@@ -79,11 +79,11 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Obsidian Finace - Banking App",
-    img: "/p3-3.svg",
-    des: "Discover the benefits of our full-stack banking platform, designed to streamline your financial journey. Immerse yourself in an efficient and secure banking experience built with cutting-edge technologies like Next.js, Tailwind CSS, Appwrite, and more, as we continue to enhance our services for you",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
-    link: "https://github.com/briansastre-ops/bankinapp",
+    title: "Obsidian - SaaS Landing Page",
+    img: "/p2.png",
+    des:"A SaaS application project developed with React and Vite, designed to provide a modern and smooth user interface. I implemented dependency management and optimized the configuration to ensure optimal performance and a seamless user experience. This project highlights my frontend development skills and my ability to efficiently solve technical challenges.",
+    iconLists: ["/re.svg", "/tail.svg"],
+    link: "https://obsidian-saas.netlify.app/",
   },
   {
     id: 3,
@@ -173,13 +173,13 @@ export const workExperience = [
   export const socialMedia = [
     {
       id: 1,
-      img: "/git.svg", // Asegúrate de que este archivo esté en /public
-      url: "https://github.com/briansastre-ops", // Añade el esquema https://
+      img: "/git.svg", 
+      url: "https://github.com/briansastre-ops", 
     },
     
     {
       id: 3,
-      img: "/link.svg", // Asegúrate de que este archivo esté en /public
-      url: "https://www.linkedin.com/in/brian-sastre-a137452a5", // Añade el esquema https://
+      img: "/link.svg", 
+      url: "https://www.linkedin.com/in/brian-sastre-a137452a5", 
     },
   ];
