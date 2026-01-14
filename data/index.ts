@@ -48,7 +48,7 @@ export const gridItems = [
   },
   {
     id: 5,
-    title: "Currently building a Banking App",
+    title: "I am dedicated to my continuous professional growth.",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -81,7 +81,7 @@ export const projects = [
     id: 2,
     title: "Obsidian - SaaS Landing Page",
     img: "/p2.png",
-    des:"A SaaS application project developed with React and Vite, designed to provide a modern and smooth user interface. I implemented dependency management and optimized the configuration to ensure optimal performance and a seamless user experience. This project highlights my frontend development skills and my ability to efficiently solve technical challenges.",
+    des: "A SaaS application project developed with React and Vite, designed to provide a modern and smooth user interface. I implemented dependency management and optimized the configuration to ensure optimal performance and a seamless user experience. This project highlights my frontend development skills and my ability to efficiently solve technical challenges.",
     iconLists: ["/re.svg", "/tail.svg"],
     link: "https://obsidian-saas.netlify.app/",
   },
@@ -90,9 +90,8 @@ export const projects = [
     title: "Food Page - Pagina Final CAC",
     des: "Indulge in the flavors of our pizza, crafted with passion and fresh ingredients. Dive into an appetizing experience with a website built using HTML, CSS, and JavaScript as we continue to perfect every slice for your delight.",
     img: "/p2-s.svg",
-    iconLists: ["/html-5.svg",  "/css-3.svg"],
-    link:"https://pizzeriacac.netlify.app/",
-    
+    iconLists: ["/html-5.svg", "/css-3.svg"],
+    link: "https://pizzeriacac.netlify.app/",
   },
 ];
 
@@ -140,46 +139,45 @@ export const companies = [
 
 export const workExperience = [
   {
-      id: 1,
-      title: "Lead Front-End Team",
-      desc: "Led the development of a functional website for a restaurant, creating a fully responsive page.",
-      className: "md:col-span-2 ",
-      thumbnail: "/exp1.svg",
+    id: 1,
+    title: "Lead Front-End Team",
+    desc: "Led the development of a functional website for a restaurant, creating a fully responsive page.",
+    className: "md:col-span-2 ",
+    thumbnail: "/exp1.svg",
   },
   {
-      id: 2,
-      title: "Inventory System in Python",
-      desc: "Created an inventory management system using Python and an SQL database.",
-      className: "md:col-span-2",
-      thumbnail: "/exp2.svg",
+    id: 2,
+    title: "Inventory System in Python",
+    desc: "Created an inventory management system using Python and an SQL database.",
+    className: "md:col-span-2",
+    thumbnail: "/exp2.svg",
   },
   {
-      id: 3,
-      title: "Freelance Banking App",
-      desc: "Currently working on a banking and finance app.",
-      className: "md:col-span-2",
-      thumbnail: "/exp3.svg",
+    id: 3,
+    title: "Freelance Banking App",
+    desc: "Currently working on a banking and finance app.",
+    className: "md:col-span-2",
+    thumbnail: "/exp3.svg",
   },
   {
-      id: 4,
-      title: "Lead Frontend Developer",
-      desc: "Developed and maintained user-facing features using modern frontend technologies.",
-      className: "md:col-span-2",
-      thumbnail: "/exp4.svg",
+    id: 4,
+    title: "Lead Frontend Developer",
+    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    className: "md:col-span-2",
+    thumbnail: "/exp4.svg",
   },
-  ];
-  
+];
 
-  export const socialMedia = [
-    {
-      id: 1,
-      img: "/git.svg", 
-      url: "https://github.com/briansastre-ops", 
-    },
-    
-    {
-      id: 3,
-      img: "/link.svg", 
-      url: "https://www.linkedin.com/in/brian-sastre-a137452a5", 
-    },
-  ];
+export const socialMedia = [
+  {
+    id: 1,
+    img: "/git.svg",
+    url: "https://github.com/briansastre-ops",
+  },
+
+  {
+    id: 3,
+    img: "/link.svg",
+    url: "https://www.linkedin.com/in/brian-sastre-a137452a5",
+  },
+];

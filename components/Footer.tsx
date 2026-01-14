@@ -17,13 +17,12 @@ const Footer = () => {
           Reach out to me today and let&apos;s discuss how I can help you
           achieve your goals.
         </p>
-        <a href="mailto:briansastre159@gmail.com">
-          <MagicButton
-            title="Let's get in touch"
-            icon={<FaLocationArrow />}
-            position="right"
-          />
-        </a>
+        <MagicButton
+          title="Let's get in touch"
+          icon={<FaLocationArrow />}
+          position="right"
+          href="mailto:briansastre159@gmail.com"
+        />
       </div>
 
       <div className="flex mt-16 md:flex-row flex-col justify-between items-center">
